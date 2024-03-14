@@ -101,7 +101,7 @@ Top sub category by profit and sales is given by column chart
 The bar represents Sales ans the line represents profit
 
 
-
+![Screenshot (639)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/e1fd3bef-8d39-4f97-9ce3-fe75866e27f9)
 
 
 
