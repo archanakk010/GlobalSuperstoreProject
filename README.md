@@ -105,6 +105,9 @@ The bar represents Sales ans the line represents profit
 
 ![Screenshot (640)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/70a02af9-7ecd-4ff0-93d8-7561a870c3a7)
 
+![Screenshot (641)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/3dde06ed-3ee2-4897-bb88-4460d9e3a8a4)
+
+
 
 
 
