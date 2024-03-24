@@ -22,7 +22,7 @@ The dashboard is created with multiple pages, each focusing on different aspects
 This page provides an overall view of sales.
 
 
-![Screenshot (681)](https://github.com/archanakk010/globaltestProject/assets/132830280/ea4098ce-6dec-4c52-8514-7ef9b6a17621)
+![Screenshot (681)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/8a1a58ac-d30c-4542-9a80-cc800bdb7699)
 
 #### ✅ Slicers
 
