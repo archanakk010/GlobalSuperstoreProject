@@ -94,7 +94,7 @@ The "Total Orders by Country" map visual shows order volumes across various coun
 This page provides an overall view of customers.
 
 
-![Screenshot (683)](https://github.com/archanakk010/globaltestProject/assets/132830280/a6697a91-170f-4e14-b763-019d82747e5f)
+![Screenshot (683)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/a4c7c70a-9366-44cf-b592-dc1b85ebe8d1)
 
 #### ✅ Slicers
 
