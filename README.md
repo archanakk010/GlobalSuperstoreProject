@@ -62,7 +62,8 @@ The "Sales by Country" map visual provides a concise representation of sales per
 This page provides an overall view of orders.
 
 
-![Screenshot (682)](https://github.com/archanakk010/globaltestProject/assets/132830280/86a935b2-1651-4e42-916c-3bdff16bea2a)
+![Screenshot (682)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/a80a18cd-799e-4386-b3c4-79c11df05f75)
+
 
 #### ✅ Slicers
 
