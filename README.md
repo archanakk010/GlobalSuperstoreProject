@@ -34,29 +34,29 @@ Slicers are provided on this page based on Year, Country, State, City.
 Cards provide the easiest way to represent a single aggregate value. Here, cards based on Total Sales, Total Orders, Total Quantity Sold, Total Profit, and Total Customers are provided.
 
 
-#### ✅ Doughnut Charts
+#### ✅ Donut Charts
 
-The dashboard includes three interactive doughnut charts that offer insights into different aspects of sales. These charts depict the distribution of Sales by sub-category, Sales by the top 5 regions, and Sales by segment. This information helps identify trends, preferences, and opportunities for targeted strategies.
+The dashboard includes three interactive doughnut charts that offer insights into different aspects of sales. These charts depict the distribution of 'Sales by sub-category', 'Sales by the top 5 regions', and 'Sales by segment'. This information helps identify trends, preferences, and opportunities for targeted strategies.
 
 
-#### ✅ Stacked Area Chart
+#### ✅ Stacked Area Charts
 
 This page consists of two stacked area charts:
-The first stacked area chart represents "Sales by month and year," providing a visual representation of how sales vary over time, specifically across different months and years.
-The second stacked area chart represents profit by month and year, offering a visual depiction of how profit fluctuates over time within the specified period (2011 to 2014).
+The first stacked area chart represents 'Sales by month and year', providing a visual representation of how sales vary over time, specifically across different months and years.
+The second stacked area chart represents 'profit by month and year', offering a visual depiction of how profit fluctuates over time within the specified period (2011 to 2014).
 
 
-#### ✅ Clustered Bar Chart
+#### ✅ Clustered Bar Charts
 
 This page consists of three clustered bar charts:
 The first clustered bar chart visually displays the sales data categorized by different shipping modes utilized by the Global Superstore. Each shipping mode, such as Standard Class, Second Class, First Class, and Same Day, is represented by a separate cluster of bars within the chart.
 The second clustered bar chart for sales by category provides a visual representation of sales performance across different product categories within the Global Superstore dataset. Each bar cluster represents a specific category, such as office supplies, technology, and furniture.
-The clustered bar chart showcasing sales by market provides a concise yet comprehensive visual representation of sales performance across different market segments within the Global Superstore dataset.
+The third clustered bar chart showcasing sales by market provides a concise yet comprehensive visual representation of sales performance across different market segments within the Global Superstore dataset.
 
 
 #### ✅ Map
 
-The "Sales by Country" map visual provides a concise representation of sales performance across different countries. By visualizing sales data geographically, stakeholders can quickly identify regions where sales are strongest and areas that may require further attention. This insight suggests that the United States plays a significant role in the overall sales performance of the Global Superstore during the specified time period.
+The 'Sales by Country' map visual provides a concise representation of sales performance across different countries. By visualizing sales data geographically, stakeholders can quickly identify regions where sales are strongest and areas that may require further attention. This insight suggests that the United States plays a significant role in the overall sales performance of the Global Superstore during the specified time period.
 
 ### 2.Orders
 This page provides an overall view of orders.
@@ -75,20 +75,20 @@ Slicers are provided on this page based on Year, Country, State, City.
 In this dashboard, cards present four crucial metrics: total sales, total orders, average delivery day, and total return orders.
 
 
-#### ✅ Stacked Column Chart
+#### ✅ Stacked Column Charts
 
 The stacked column chart "Total Orders by Month" provides a visual representation of the total number of orders placed each month over the period from 2011 to 2014. This chart allows stakeholders to quickly identify trends and patterns in order volume over time.
 
 
-#### ✅ Table
+#### ✅ Tables
 
-The first table "Top 20 Sub-category by order" provides a concise summary of the top 20 Sub-categories based on order count.
-The "Category by Order" table provides a concise summary of the relationship between product categories and orders within the Global Superstore dataset.
+The first table 'Top 20 Sub-category by order' provides a concise summary of the top 20 Sub-categories based on order count.
+The 'Category by Order' table provides a concise summary of the relationship between product categories and orders within the Global Superstore dataset.
 
 
 ####  ✅ Map
 
-The "Total Orders by Country" map visual shows order volumes across various countries. In the case of the United States, it emerges as a significant contributor to the total orders due to its substantial order volume.
+The 'Total Orders by Country' map visual shows order volumes across various countries. In the case of the United States, it emerges as a significant contributor to the total orders due to its substantial order volume.
 
 ### 3.Customers
 This page provides an overall view of customers.
@@ -106,9 +106,14 @@ Slicers are provided on this page based on Year, Country, State, City.
 In this dashboard, cards present key metrics such as total sales, total customers, average orders per customer, and average returns per customer.
 
 
-#### ✅ Table
+#### ✅ Tables
 
 The table 'Top 20 Customers based on sales' provides a concise summary of the top-performing customers within the Global Superstore dataset. It lists the top 20 customers ranked by their total sales volume over the specified time period (2011-2014). This information is invaluable for identifying the most significant contributors to overall sales revenue and understanding which customers are the most valuable to the business.
+
+
+#### ✅Clustered Column Chart
+
+The clustered column chart depicting customer count by year provides a visual representation of how the customer base of the Global Superstore has evolved over the specified time period (2011 to 2014).
 
 
 #### ✅ Map
@@ -128,7 +133,7 @@ Slicers are provided on this page based on Year, Country, State, City.
 
 #### ✅ Cards
 
-In this dashboard, cards are used to display key metrics such as total products, total quantity sold, and average quantity per order. Sales by Category is represented as a Pie chart. The three types of categories (office supplies, technology, and Furniture) and their percentage and numbers based on Sales are displayed.
+In this dashboard, cards are used to display key metrics such as total products, total quantity sold, and average quantity per order.
 
 
 #### ✅ Table
