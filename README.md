@@ -120,8 +120,7 @@ The "Top 10 countries by customer count" map visual provides a concise overview 
 This page provides an overall view of products.
 
 
-![Screenshot (684)](https://github.com/archanakk010/globaltestProject/assets/132830280/0e2b6b3d-339b-4076-9161-796a6f83b656)
-
+![Screenshot (684)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/6409bf2b-5746-465e-9c88-a6da3e442f71)
 
 #### ✅ Slicers
 
