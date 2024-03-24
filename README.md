@@ -140,7 +140,7 @@ The third table "Top 10 Products by Sales" provides a concise overview of the be
 ### 5.Decomposition
 This page provides an overall view on  Decomposition.
 
-![Screenshot (680)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/4845040d-5166-46f2-8bcd-53652e29bacd)
+![Screenshot (685)](https://github.com/archanakk010/GlobalSuperstoreProject/assets/132830280/4b4c561f-c66a-45fb-b581-3d50dfa9f87c)
 
 
 ✅Decomposition tree
